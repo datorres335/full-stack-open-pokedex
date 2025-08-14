@@ -2,8 +2,6 @@ name: Hello World!
 
 on:
   push:
-    paths:
-      - 'part11/full-stack-open-pokedex/**'
     branches:
       - main
 
